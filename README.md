@@ -1,5 +1,4 @@
 Hello Dear.
-This is Albert Lin, cretive full stack developer.
 As an experienced full stack developer, I have 5+ years of experience with Full stack developement.
 My front-end skills are React, Vue, Next, Nuxt, HTML/css and back-end skills are NodeJs, Django/Flask.
 Also I am familiar with Cloud services and API.
